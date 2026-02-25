@@ -1,0 +1,7 @@
+{
+  "name": "Padel Pass",
+  "description": "Plataforma gamificada para jugadores de pádel amateur. Juega, suma puntos y sube de nivel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
